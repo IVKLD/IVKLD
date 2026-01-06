@@ -23,10 +23,10 @@
 ## PROFESSIONAL CONTACT
 
 <div align="center">
-  <a href="mailto:**YOUR_PROFESSIONAL_EMAIL@example.com**">
+  <a href="mailto:igniver696@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://t.me/**YOUR_TELEGRAM_ID**">
+  <a href="https://t.me/IgniVer">
     <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </div>
