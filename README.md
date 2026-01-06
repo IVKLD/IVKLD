@@ -1,46 +1,58 @@
+<div align="center">
+
 # IVKLD
-### Software Engineer | Systems Programming & Enterprise Frontend
+## Systems Architect | Performance-Centric Development
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=d9534f&vCenter=true&width=700&lines=Rust+Systems+Programming;MVVM+Architectural+Purity;Enterprise+Angular+Development" alt="Typing SVG" />
+</div>
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=93c47d&vCenter=true&width=650&lines=Scalable+Angular+Architectures;High-Concurrency+Rust+Backend;MVVM+Design+Pattern+Implementation" alt="Typing SVG" />
+## CORE TECHNICAL FOCUS
 
-## Core Competencies and Focus
+> Engineering lead focusing on optimal performance and code longevity. My work is centered on building resilient systems with **Rust** and designing highly scalable, maintainable frontends following the strict **MVVM** pattern in **Angular**.
 
-> Dedicated to engineering robust, high-performance applications. Expertise is concentrated on systems programming for low-latency backends and structured, maintainable frontends, primarily adhering to the **MVVM** pattern.
-
--   **Backend:** Developing highly concurrent and memory-safe services using **Rust**.
--   **Frontend:** Architecting complex SPAs with **Angular** and **TypeScript** for enterprise-level deployment.
--   **Architecture:** Specialization in modular design, state management (RxJS), and performance optimization.
+-   **Systems Focus:** Developing **Zero-Cost Abstraction** and **Memory-Safe** systems for high-throughput, low-latency applications using Rust.
+-   **Frontend Architecture:** Mandating **Reactive Programming** (RxJS) within the MVVM structure for deterministic state management and highly testable Single-Page Applications (SPA).
+-   **Integration:** Utilizing **WebAssembly (WASM)** to deploy performance-critical Rust modules directly into the Angular application layer.
 
 ---
 
-## Technical Skill Matrix
+## SKILL MATRIX
 
-I maintain proficiency across the following domains and tools:
+Proficiency across the following technical domains and tools:
 
 | Domain | Technologies |
 | :---: | :--- |
-| **Languages** | <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> |
-| **Frontend/UI** | <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" /> <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=rxjs&logoColor=white" alt="RxJS" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> |
-| **Backend/Runtime** | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" /> |
-| **Databases** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" /> |
-| **Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VSCode" /> |
+| **Languages** | <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> |
+| **Frameworks** | <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" /> <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=rxjs&logoColor=white" alt="RxJS" /> <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white" alt="WebAssembly" /> |
+| **Tools/DevOps** | <img src="https://img.shields.io/badge/Zed-297394?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Zed" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> |
+
+<br>
 
 ---
 
-## GitHub Metrics
+## GITHUB METRICS & ACCOMPLISHMENTS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IVKLD&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=93c47d&icon_color=93c47d&locale=en" alt="IVKLD GitHub Stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=IVKLD&theme=onedark&no-frame=true&no-bg=true" alt="IVKLD GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IVKLD&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true&title_color=d9534f&icon_color=d9534f&locale=en" alt="IVKLD GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=IVKLD&theme=flat&no-frame=true&no-bg=true" alt="IVKLD GitHub Trophies" />
 </p>
 
 ---
 
-## Contact
+## SYSTEM CHECK: MINESWEEPER STATUS
 
-For professional inquiries and collaboration proposals, please use the following channels:
+<div align="center">
+    <!-- Minesweeper Widget (A unique, interactive component for an authorial touch) -->
+    <img src="https://minesweeper-card.deno.dev/api?theme=dark&bg_color=191616&level=expert&text_color=FFFFFF&flag_color=D63232&bomb_color=D9534F" alt="GitHub Minesweeper Card" />
+</div>
+
+---
+
+## PROFESSIONAL CONTACT
+
+For direct technical inquiries and high-level collaboration proposals:
 
 <div align="center">
   <a href="mailto:**YOUR_PROFESSIONAL_EMAIL@example.com**">
