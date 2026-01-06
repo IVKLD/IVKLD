@@ -50,7 +50,7 @@ Proficiency across the following technical domains and tools:
   <!-- Ультра-надежная и популярная GIF-анимация "Coding" для эстетики -->
   <img src="https://media.giphy.com/media/M9gbKdUQwP8wZMk2Fz/giphy.gif" alt="Coding GIF" width="800"/>
 </div>
-
+ 
 <br>
 
 ## PROFESSIONAL CONTACT
