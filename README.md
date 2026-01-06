@@ -7,8 +7,6 @@
 
 ## SKILL MATRIX
 
-Proficiency across the following technical domains and tools:
-
 <p align="center">
     <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
@@ -26,9 +24,7 @@ Proficiency across the following technical domains and tools:
 
 ## PROFESSIONAL CONTACT
 
-For direct technical inquiries and high-level collaboration proposals:
-
-<div>
+<div align="center">
   <a href="mailto:**YOUR_PROFESSIONAL_EMAIL@example.com**">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
   </a>
