@@ -32,19 +32,21 @@ Proficiency across the following technical domains and tools:
 
 ---
 
-## GITHUB METRICS & ACCOMPLISHMENTS
+## GITHUB METRICS
 
 <p align="center">
+  <!-- Статистика активности, стабильный сервис -->
   <img src="https://github-readme-stats.vercel.app/api?username=IVKLD&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true&title_color=d9534f&icon_color=d9534f&locale=en" alt="IVKLD GitHub Stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=IVKLD&theme=flat&no-frame=true&no-bg=true" alt="IVKLD GitHub Trophies" />
+  <!-- Статистика языков, стабильный сервис -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IVKLD&layout=compact&theme=onedark&hide_border=true&title_color=d9534f&icon_color=d9534f&langs_count=4" alt="IVKLD Top Languages" />
 </p>
 
 ---
 
-## SYSTEM CHECK: MINESWEEPER STATUS
+## SYSTEM INTEGRITY CHECK: MINESWEEPER STATUS
 
 <div align="center">
-    <!-- Minesweeper Widget (A unique, interactive component for an authorial touch) -->
+    <!-- Рабочий виджет Сапёра в темном стиле, статичная карточка -->
     <img src="https://minesweeper-card.deno.dev/api?theme=dark&bg_color=191616&level=expert&text_color=FFFFFF&flag_color=D63232&bomb_color=D9534F" alt="GitHub Minesweeper Card" />
 </div>
 
@@ -58,7 +60,7 @@ For direct technical inquiries and high-level collaboration proposals:
   <a href="mailto:**YOUR_PROFESSIONAL_EMAIL@example.com**">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/**YOUR_LINKEDIN_ID**">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://t.me/**YOUR_TELEGRAM_ID**">
+    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </div>
