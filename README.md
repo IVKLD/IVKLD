@@ -37,20 +37,18 @@ Proficiency across the following technical domains and tools:
 
 <br>
 
-## GITHUB METRICS AND ACCOMPLISHMENTS
+## GITHUB ACTIVITY & METRICS
 
 <p align="center">
-  <!-- GitHub Stats (с прозрачным фоном) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=IVKLD&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=d9534f&icon_color=d9534f&locale=en" alt="IVKLD GitHub Stats" />
-  <!-- GitHub Trophies (анимация, придает статус) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=IVKLD&theme=flat&no-frame=true&no-bg=true" alt="IVKLD GitHub Trophies" />
+  <!-- GitHub Language Stats (Теперь через GitHub Action для максимальной надежности) -->
+  <img src="https://github.com/IVKLD/IVKLD/blob/output/github-top-langs.svg" alt="Top Languages Used" />
 </p>
 
 <br>
 
 <div align="center">
-  <!-- Анимированный баннер - дополнительный авторский элемент -->
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/master/repo-card/coding.svg" alt="Animated Coding Banner" />
+  <!-- Ультра-надежная и популярная GIF-анимация "Coding" для эстетики -->
+  <img src="https://media.giphy.com/media/M9gbKdUQwP8wZMk2Fz/giphy.gif" alt="Coding GIF" width="800"/>
 </div>
 
 <br>
@@ -67,5 +65,3 @@ For direct technical inquiries and high-level collaboration proposals:
     <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </div>
-
-<br>
