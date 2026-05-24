@@ -1,8 +1,3 @@
-
-## Systems Architect | Performance-Centric Development
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=d9534f&vCenter=true&width=700&lines=Rust+Systems+Programming;MVVM+Architectural+Purity;Enterprise+Angular+Development" alt="Typing SVG" />
-
 ## SKILL MATRIX
 
 <p align="center">
